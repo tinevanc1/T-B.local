@@ -13,9 +13,8 @@ Werkstuk T&B
 
 Documenten
 -------------
- - [dossier.pdf](dossier.pdf)
- - [dossier.md](dossier.md)
- - [timesheet (excel)](Timesheet_2MMPA-04.xlsx)
+ - [dossier.pdf](productiedossier.pdf)
+ - [timesheet (excel)](Timesheet_Tine_Vancoillie.xlsx)
 
 
 Auteur
