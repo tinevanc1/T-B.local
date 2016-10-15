@@ -13,7 +13,7 @@ Werkstuk T&B
 
 Documenten
 -------------
- - [dossier.pdf](productiedossier.pdf)
+ - [productiedossier.pdf](productiedossier.pdf)
  - [timesheet (excel)](Timesheet_Tine_Vancoillie.xlsx)
 
 
